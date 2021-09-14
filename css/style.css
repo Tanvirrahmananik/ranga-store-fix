@@ -47,6 +47,7 @@ body {
   padding: 10px;
   transition: 0.6s;
   
+  
 }
 .single-product:hover {
   background-color: rgb(228, 224, 231); 
@@ -62,6 +63,7 @@ body {
 }
 .cart {
   width: 350px;
+  
   /* border: 1px solid green; */
   padding: 10px;
   box-shadow: 10px 10px 20px gray;
